@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch>=2.0.0
+torchvision
+Pillow
+opencv-python
+albumentations
+tqdm
+segmentation-models-pytorch
+torchsummary
+plotly
